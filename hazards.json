@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "construction",
+    "name": "NH-48 Road Work",
+    "lat": 12.966,
+    "lon": 79.797,
+    "radius_meters": 6000,
+    "description": "Major road construction: Expect 20 min delay.",
+    "active_hours": "07:00-21:00",
+    "icon": "🚧"
+  },
+  {
+    "id": 2,
+    "type": "accident",
+    "name": "Chengalpattu Bypass Accident",
+    "lat": 12.665,
+    "lon": 79.971,
+    "radius_meters": 6000,
+    "description": "Recent accident reported. Proceed with caution.",
+    "active_hours": "All day",
+    "icon": "💥"
+  },
+  {
+    "id": 3,
+    "type": "railway_crossing",
+    "name": "Near Paranur Railway",
+    "lat": 12.665,
+    "lon": 79.9684,
+    "radius_meters": 6000,
+    "description": "Railway crossing. Trains pass: 9:10AM, 12:35PM, 6:40PM.",
+    "active_hours": "All day",
+    "icon": "🚂"
+  },
+  {
+    "id": 4,
+    "type": "weather",
+    "name": "Kanchipuram Flood Zone",
+    "lat": 12.8342,
+    "lon": 79.7043,
+    "radius_meters": 8000,
+    "description": "Flood-prone area. Avoid during heavy rain.",
+    "active_hours": "Monsoon",
+    "icon": "🌧️"
+  },
+  {
+    "id": 5,
+    "type": "crowded_area",
+    "name": "Kanchipuram Market",
+    "lat": 12.837,
+    "lon": 79.701,
+    "radius_meters": 4000,
+    "description": "High pedestrian traffic area",
+    "active_hours": "10:00-22:00",
+    "icon": "👥"
+  }
+]
